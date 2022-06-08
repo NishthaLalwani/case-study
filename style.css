@@ -1,0 +1,63 @@
+p{
+    color: red;
+    letter-spacing: 2px;
+}
+
+#mobilenet{
+    letter-spacing: 2px;
+}
+
+.google_lens{
+    letter-spacing: 2px;
+}
+
+span{
+    letter-spacing: 1px;
+}
+
+.bottom{
+    color: red;
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    width: 100px;
+}
+
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+b{
+    color: rgb(20, 1, 20);
+}
+
+.google_lens{
+    color: black;
+}
+
+.test_image_and_result1{
+    margin-top:15px ;
+    background-color:rgb(155,153,153) ;
+    border-radius : 10px; ;
+    box-shadow:1px 1px 25px grey ;
+    width: 99px; ;
+    margin-bottom: 15px;
+}
+
+h4{
+    color: aliceblue;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
